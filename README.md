@@ -1,6 +1,7 @@
 # team-profile
 Module 10 Challenge
 
+![Team Profile](./src/team-profile.png)
 [Video Demonstration](https://drive.google.com/file/d/1rG4XwyyYu16q0Fzu6AZe_U5QIFOrtBj9/view)
 
 ## Installation
